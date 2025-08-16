@@ -24,6 +24,12 @@ Together, we aim to push forward the boundaries of artificial intelligence while
 
 <table>
 <tr>
+  <td width="33%">
+  <a href="https://arxiv.org/abs/2504.08744">
+    <img src="https://github.com/Axon-AI-Research-Labs/assists-/blob/main/ExpertRAG.jpg" width="100%">
+  </a>
+  <p align="center"><b>ExpertRAG: Efficient RAG with Mixture of Experts -- Optimizing Context Retrieval for Adaptive LLM Responses</b></p>
+</td>
 <td width="33%">
   <a href="https://arxiv.org/abs/2507.22915">
     <img src="https://github.com/Axon-AI-Research-Labs/assists-/blob/main/Math.jpg" width="100%">
