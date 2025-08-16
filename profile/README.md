@@ -1,4 +1,4 @@
-<img width="1168" height="1481" alt="image" src="https://github.com/user-attachments/assets/d4acbc7a-935e-445e-8c6b-84787c784016" />🌌 Welcome to Axon: AI Research Lab 🚀🤖
+🌌 Welcome to Axon: AI Research Lab 🚀🤖
 
 This organization is a collaborative platform dedicated to:
 - ✨ Implementing research papers in artificial intelligence.
