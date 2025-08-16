@@ -19,3 +19,28 @@ Together, we aim to push forward the boundaries of artificial intelligence while
 3. **[Theoretical Foundations and Mitigation of Hallucination in Large Language Models ](https://arxiv.org/abs/2507.22915)**
 4. **[Mixture of Transformers: Macro-Level Gating for Sparse Activation in Large Language Model Ensembles](http://dx.doi.org/10.13140/RG.2.2.25049.02400)**
 5. **[Universal Approximation Theorem for a Single-Layer Transformer](https://arxiv.org/abs/2507.10581)**
+
+## 📚 Featured Publications  
+
+<table>
+<tr>
+<td width="33%">
+  <a href="https://arxiv.org/abs/2507.22915">
+    <img src="link-to-your-image1.png" width="100%">
+  </a>
+  <p align="center"><b>Mitigation of Hallucination in LLM</b></p>
+</td>
+<td width="33%">
+  <a href="https://arxiv.org/abs/2507.10581">
+    <img src="link-to-your-image2.png" width="100%">
+  </a>
+  <p align="center"><b>Universal Approximation in Transformers</b></p>
+</td>
+<td width="33%">
+  <a href="https://arxiv.org/abs/2504.03662">
+    <img src="link-to-your-image3.png" width="100%">
+  </a>
+  <p align="center"><b>Galvatron: Large Transformer Training</b></p>
+</td>
+</tr>
+</table>
