@@ -28,13 +28,13 @@ Together, we aim to push forward the boundaries of artificial intelligence while
     <a href="https://arxiv.org/abs/2507.22915">
       <img src="https://github.com/Axon-AI-Research-Labs/assists-/blob/main/Math.jpg" width="100%" height="400">
     </a>
-    <p align="center"><b>Mitigation of Hallucination in LLM</b></p>
+    <p align="center"><b>Theoretical Foundations and Mitigation of Hallucination in Large Language Models</b></p>
   </td>
   <td width="33%">
     <a href="https://arxiv.org/abs/2507.10581">
       <img src="https://github.com/Axon-AI-Research-Labs/assists-/blob/main/theory.jpg" width="100%" height="400">
     </a>
-    <p align="center"><b>Universal Approximation in Transformers</b></p>
+    <p align="center"><b>Universal Approximation Theorem for a Single-Layer Transformer</b></p>
   </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ Together, we aim to push forward the boundaries of artificial intelligence while
     <a href="https://arxiv.org/abs/2504.03662">
       <img src="https://github.com/Axon-AI-Research-Labs/assists-/blob/main/Galvatron.jpg" width="100%" height="400">
     </a>
-    <p align="center"><b>Galvatron: Large Transformer Training</b></p>
+    <p align="center"><b>Galvatron: Automatic Distributed Training for Large Transformer Models</b></p>
   </td>
   <td width="33%">
     <a href="http://dx.doi.org/10.13140/RG.2.2.25049.02400">
