@@ -26,19 +26,19 @@ Together, we aim to push forward the boundaries of artificial intelligence while
 <tr>
 <td width="33%">
   <a href="https://arxiv.org/abs/2507.22915">
-    <img src="link-to-your-image1.png" width="100%">
+    <img src="https://github.com/Axon-AI-Research-Labs/assists-/blob/main/Math.jpg" width="100%">
   </a>
   <p align="center"><b>Mitigation of Hallucination in LLM</b></p>
 </td>
 <td width="33%">
   <a href="https://arxiv.org/abs/2507.10581">
-    <img src="link-to-your-image2.png" width="100%">
+    <img src="https://github.com/Axon-AI-Research-Labs/assists-/blob/main/theory.jpg" width="100%">
   </a>
   <p align="center"><b>Universal Approximation in Transformers</b></p>
 </td>
 <td width="33%">
   <a href="https://arxiv.org/abs/2504.03662">
-    <img src="link-to-your-image3.png" width="100%">
+    <img src="https://github.com/Axon-AI-Research-Labs/assists-/blob/main/Galvatron.jpg" width="100%">
   </a>
   <p align="center"><b>Galvatron: Large Transformer Training</b></p>
 </td>
