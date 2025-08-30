@@ -56,11 +56,6 @@ Together, we aim to push forward the boundaries of artificial intelligence while
     </a>
     <p align="center"><b>Bachelor Thesis: AI Engine – Deep Learning and Neural Network Engine</b></p>
   </td>
-  <td width="33%">
-    <a href="http://dx.doi.org/10.13140/RG.2.2.17081.22889">
-      <img src="https://github.com/Axon-AI-Research-Labs/assists-/blob/main/AI-DRUG.jpg" width="100%" height="400">
-    </a>
-    <p align="center"><b>Predicting Molecular Dipole Moments on QM9 with 3D Graph Neural Networks: A Reproducible SchNet Baseline and Diagnostic Toolkit</b></p>
-  </td>
+
 </tr>
 </table>
