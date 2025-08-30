@@ -56,5 +56,11 @@ Together, we aim to push forward the boundaries of artificial intelligence while
     </a>
     <p align="center"><b>Bachelor Thesis: AI Engine – Deep Learning and Neural Network Engine</b></p>
   </td>
+  <td width="33%">
+    <a href="http://dx.doi.org/10.13140/RG.2.2.17081.22889">
+      <img src="" width="100%" height="400">
+    </a>
+    <p align="center"><b>Bachelor Thesis: AI Engine – Deep Learning and Neural Network Engine</b></p>
+  </td>
 </tr>
 </table>
